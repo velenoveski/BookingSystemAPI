@@ -1,0 +1,436 @@
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.AssemblyReference.cache
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfoInputs.cache
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfo.cs
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CoreCompileInputs.cache
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.exe
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.deps.json
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.runtimeconfig.json
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Intercom.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BookingSystemApi.styles.css
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CopyComplete
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\refint\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.genruntimeconfig.cache
+C:\Users\Vele.Noveski\Desktop\BookingSystemApi\obj\Debug\net6.0\ref\BookingSystemApi.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\appsettings.json
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.exe
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.deps.json
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.runtimeconfig.json
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.pdb
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\AutoMapper.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Humanizer.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Intercom.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.AssemblyReference.cache
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfoInputs.cache
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfo.cs
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CoreCompileInputs.cache
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BookingSystemApi.styles.css
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CopyComplete
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\refint\BookingSystemApi.dll
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.pdb
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.genruntimeconfig.cache
+D:\DATA (D)_COPY\!MPORTANT FILES-DOCS\!Programming\!TEST_PROJECTS\.NET MSApps_Testing\BookingSystemApi\obj\Debug\net6.0\ref\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.exe
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.deps.json
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.runtimeconfig.json
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Intercom.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.AssemblyReference.cache
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfoInputs.cache
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfo.cs
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CoreCompileInputs.cache
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BookingSystemApi.styles.css
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CopyComplete
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\refint\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.genruntimeconfig.cache
+C:\Users\Vele.Noveski\Downloads\BookingSystemApi\obj\Debug\net6.0\ref\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.AssemblyReference.cache
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfoInputs.cache
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfo.cs
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CoreCompileInputs.cache
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\refint\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.exe
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.deps.json
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.runtimeconfig.json
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Intercom.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BookingSystemApi.styles.css
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CopyComplete
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.genruntimeconfig.cache
+C:\Users\Vele.Noveski\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\ref\BookingSystemApi.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.exe
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.deps.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.runtimeconfig.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Intercom.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\RestSharp.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.AssemblyInfo.cs
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.BookingSystemApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BookingSystemApi.props
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookingSystemApi.props
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookingSystemApi.props
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BookingSystemApi.styles.css
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.csproj.CopyComplete
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\refint\BookingSystemApi.dll
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.pdb
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\BookingSystemApi.genruntimeconfig.cache
+C:\Users\PC\Desktop\INSCALE GLOBAL\BookingSystemApi\obj\Debug\net6.0\ref\BookingSystemApi.dll
